@@ -1,12 +1,12 @@
 # Análisis de Datos Económicos Geolocalizados utilizando Persistencia Homológica
 
-Paulina Leal Mosqueda, A01659576
-Samuel López Araiza Cadena, A01026507
-Santiago Nava Figueroa, A01174557
-Ricardo Villareal Bazán, A01666859
+Paulina Leal Mosqueda A01659576,
+Samuel López Araiza Cadena A01026507,
+Santiago Nava Figueroa A01174557,
+Ricardo Villareal Bazán A01666859
 
 
-Este repositorio contiene un cuaderno de Jupyter (`RetoTopologia62.ipynb`) que realiza un análisis geoespacial de servicios de salud en la Zona Metropolitana. Se utilizan datos de establecimientos, consultorios y hospitales de la Ciudad de México y el Estado de México para explorar cobertura, conectividad y vacíos en el acceso a servicios médicos mediante técnicas de persistencia homológica y clustering.
+Este repositorio contiene un cuaderno de Jupyter (`RetoTopologia62.ipynb`) que realiza un análisis geoespacial de servicios de salud en la Zona Metropolitana. Se utilizan datos de establecimientos, consultorios y hospitales de la Ciudad de México y el Estado de México proporcionados por el Directorio Estadístico Nacional de Unidades Económicas (2025), para explorar cobertura, conectividad y vacíos en el acceso a servicios médicos mediante técnicas de persistencia homológica y clustering.
 
 ## Qué hace el documento
 
